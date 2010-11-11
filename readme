@@ -1,0 +1,7 @@
+usage:
+
+$(".back").nolink().jumpTo("#header");
+
+on-click of .back element jumps to where the #header is positioned
+
+requires jquery.nolink library
